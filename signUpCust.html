@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign up</title>
+    <style>
+        .button {
+            background-color: #25c1d5;
+            border: none;
+            color: white;
+            padding: 14px 124px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            margin: 20px 2px;
+            cursor: pointer;
+            border-radius: 16px;
+            float: center;
+        }
+
+        .container {
+            margin: 0px auto;
+            width: 520px;
+            height: 570px;
+            border-radius: 9px;
+            background-color: white;
+
+        }
+
+        .login {
+            position: relative;
+            margin: 0 auto;
+            padding: 20px 20px 20px;
+            width: 310px;
+        }
+
+        .login input[type=text],
+        .login input[type=email],
+        .login input[type=tel],
+        .login input[type=password] {
+            margin-left: -35px;
+            margin-bottom: 5px;
+            width: 350px;
+            height: 40px;
+            border-color: #c4c4c4 #d1d1d1 #d4d4d4;
+            border-radius: 9px;
+            padding: 0 17px;
+        }
+
+        .login h1 {
+            line-height: 40px;
+            font-size: 30px;
+            color: #25c1d5;
+            text-align: center;
+        }
+
+        .login-help {
+            margin: 20px 0;
+            font-size: 15px;
+            color: grey;
+            text-align: center;
+        }
+
+        .login-help a {
+            color: #25c1d5;
+            text-decoration: none;
+        }
+
+        .login-help a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body style="background-color: rgb(231,229,229);">
+    <h1 style="text-align: center; margin-top: 35px;">For Customers</h1>
+    <div class="container">
+        <div class="login">
+            <h1>Sign up to KaryM</h1>
+            <form method="post" action="">
+                <p><input type="text" name="name" value="" placeholder="Name"></p>
+                <p><input type="tel" name="phone" value="" placeholder="Phone Number"></p>
+                <p><input type="email" name="login" value="" placeholder="Email address"></p>
+                <p><input type="text" name="address" value="" placeholder="Address"></p>
+                <p><input type="password" name="password" value="" placeholder="Password"></p>
+                <a class="button">Sign Up</a>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
