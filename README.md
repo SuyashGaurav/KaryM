@@ -1,4 +1,4 @@
-#Glimpses of the website:
+Glimpses of the website:
 <img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/fcca1a82-5fb5-4136-bf6c-88f262725042">
 <img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/8acc1256-e8eb-43c9-8da8-b993f9ecf6b7">
 <img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/17fd89e9-ad31-4871-ad77-ea87866bddcb">
