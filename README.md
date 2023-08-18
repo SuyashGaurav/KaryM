@@ -1,3 +1,10 @@
+#Glimpses of the website:
+<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/fcca1a82-5fb5-4136-bf6c-88f262725042">
+<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/8acc1256-e8eb-43c9-8da8-b993f9ecf6b7">
+<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/17fd89e9-ad31-4871-ad77-ea87866bddcb">
+<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/24d38e2e-5000-42f9-9105-36c57c0dfbe3">
+<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/1363fb21-f6cc-4a00-813e-d90bb946edb4">
+<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/b034e3d0-330f-4ef0-b28e-99a413920bc7">
 # KaryM
 PROJECT KARYM
 ---------------
@@ -56,13 +63,7 @@ Do not Login/Signup with more than one account as it will lead to session overla
 To log in with another account, sign out of the current account and log in again.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Glimpses of the website:
-<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/fcca1a82-5fb5-4136-bf6c-88f262725042">
-<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/8acc1256-e8eb-43c9-8da8-b993f9ecf6b7">
-<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/17fd89e9-ad31-4871-ad77-ea87866bddcb">
-<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/24d38e2e-5000-42f9-9105-36c57c0dfbe3">
-<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/1363fb21-f6cc-4a00-813e-d90bb946edb4">
-<img width="960" alt="image" src="https://github.com/SuyashGaurav/KaryM/assets/102952185/b034e3d0-330f-4ef0-b28e-99a413920bc7">
+
 
 
 
