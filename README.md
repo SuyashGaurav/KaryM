@@ -1,14 +1,14 @@
 # KaryM
-## PROJECT KARYM
+PROJECT KARYM
 ---------------
 
-## DESCRIPTION
+DESCRIPTION
 -------------------------------------------------------------------------------------------
 Our Project can relate the people who want to work and the people want the work done.
 -------------------------------------------------------------------------------------------
 
 
-## INSTRUCTION TO GET OUR WEBSITE UP AND RUNNING:
+INSTRUCTION TO GET OUR WEBSITE UP AND RUNNING:
 ----------------------------------------------------------------------------------------------------------------------
 1. We are using XAMPP as a local host or server. XAMPP need to be already installed in the local disk.
 2. Our project is in zipped format as "210010054,210010032,210010019,210010017,21010040.zip". You have to extract the file. 
@@ -22,8 +22,7 @@ Our Project can relate the people who want to work and the people want the work 
 ------------------------------------------------------------------------------------------------------------------------
 
 
-
-## HOW TO USE
+HOW TO USE
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.For Customer,
@@ -32,7 +31,7 @@ In your main page, you have two ways of contacting a labourer/contractor.
 i) Choose the profession where you want your work to be done and you will be redirected to a page where you can find list of labourers/contractors who are in that profession.
 ii) The other option is to write a description of your work in the work-request form provided below and select the category of work.
 
-## Notifications:
+Notifications:
 The customer will recieve two types of notifications:
 i)The labourers who have proposed to do the customer's work
 ii) The labourers who have accepted some work request the customer has sent them
@@ -43,7 +42,7 @@ In your main page, if your city is stored in the database, you will, by default 
 If city is not stored, all customers will be shown.
 The list of customers can be further filtered by the city filter on the left side of the page.
 
-## Notifications:
+Notifications:
 The labourer/contractor will recieve two types of notifications:
 i)The customer who wants the labourer/contractor to do their work
 ii) The lcustomers who have accepted some work request the labourer/contractor has sent them
@@ -53,7 +52,7 @@ There is an option to edit profile for both the labourer/contractor and customer
 Signing out will redirect the user to their respective login pages
 
 
-## Precautions:
+Precautions:
 Do not Login/Signup with more than one account as it will lead to session overlapping.
 To login with another account, sign out of the current account and login again.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
